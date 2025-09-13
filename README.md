@@ -1,7 +1,7 @@
 # 2024 UNC Greensboro Graph Learning and Network Analysis REU
 Visual episodic memory in cognitive robots using knowledge graphs
 
-Research conducted with Dr. Phyllis Beck.
+Research conducted with Dr. Chunjiang Zhu.
 
 This is a research concept that modifies the existing code from the lstm_explore repository (https://github.com/jackvice/lstm_explore) and is inspired by the humemai project (https://github.com/humemai/humemai, https://github.com/humemai/room-env)
 
